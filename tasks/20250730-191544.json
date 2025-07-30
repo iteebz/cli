@@ -1,0 +1,8 @@
+{
+  "id": "20250730-191544",
+  "created": "2025-07-30T19:15:44.233460",
+  "description": "Test the refactored tasks tool",
+  "status": "todo",
+  "priority": "high",
+  "ai_enhancement": "AI enhancement failed: 'coroutine' object has no attribute 'response'"
+}
